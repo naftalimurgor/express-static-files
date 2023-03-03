@@ -21,4 +21,4 @@ yarn start
 
 Application listens for requests at PORT 3000
 
-Visit http://127.0.0.1:300/public/image.png
+Visit http://127.0.0.1:300/static/image.png
