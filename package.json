@@ -1,0 +1,14 @@
+{
+  "name": "express-static-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:naftalimurgor/express-static-files.git",
+  "author": "naftalimurgor <murgornaftali@gmail.com>",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
